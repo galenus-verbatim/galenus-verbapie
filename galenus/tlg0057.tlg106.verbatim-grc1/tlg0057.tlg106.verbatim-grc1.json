@@ -1,0 +1,282 @@
+[
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1",
+        "title": "Vocum Hippocratis Glossarium",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1639",
+        "volume": "19-8"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Prooemium",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Prooemium",
+        "volume": "19",
+        "page_start": "62",
+        "line_start": "1",
+        "page_end": "69",
+        "line_end": "3",
+        "title": "Prooemium",
+        "capitulum": "Prooemium"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Α",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Α",
+        "volume": "19",
+        "page_start": "69",
+        "line_start": "4",
+        "page_end": "87",
+        "line_end": "13",
+        "title": "Α",
+        "capitulum": "Α"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Β",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Β",
+        "volume": "19",
+        "page_start": "87",
+        "line_start": "14",
+        "page_end": "90",
+        "line_end": "4",
+        "title": "Β",
+        "capitulum": "Β"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Γ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Γ",
+        "volume": "19",
+        "page_start": "90",
+        "line_start": "5",
+        "page_end": "91",
+        "line_end": "16",
+        "title": "Γ",
+        "capitulum": "Γ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Δ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Δ",
+        "volume": "19",
+        "page_start": "92",
+        "line_start": "1",
+        "page_end": "94",
+        "line_end": "7",
+        "title": "Δ",
+        "capitulum": "Δ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Ε",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Ε",
+        "volume": "19",
+        "page_start": "94",
+        "line_start": "8",
+        "page_end": "102",
+        "line_end": "2",
+        "title": "Ε",
+        "capitulum": "Ε"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Ζ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Ζ",
+        "volume": "19",
+        "page_start": "102",
+        "line_start": "3",
+        "line_end": "3",
+        "title": "Ζ",
+        "capitulum": "Ζ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Η",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Η",
+        "volume": "19",
+        "page_start": "102",
+        "line_start": "4",
+        "page_end": "103",
+        "line_end": "6",
+        "title": "Η",
+        "capitulum": "Η"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Θ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Θ",
+        "volume": "19",
+        "page_start": "103",
+        "line_start": "7",
+        "page_end": "105",
+        "line_end": "2",
+        "title": "Θ",
+        "capitulum": "Θ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Ι",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Ι",
+        "volume": "19",
+        "page_start": "105",
+        "line_start": "3",
+        "page_end": "107",
+        "line_end": "4",
+        "title": "Ι",
+        "capitulum": "Ι"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Κ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Κ",
+        "volume": "19",
+        "page_start": "107",
+        "line_start": "5",
+        "page_end": "116",
+        "line_end": "16",
+        "title": "Κ",
+        "capitulum": "Κ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Λ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Λ",
+        "volume": "19",
+        "page_start": "116",
+        "line_start": "17",
+        "page_end": "119",
+        "line_end": "10",
+        "title": "Λ",
+        "capitulum": "Λ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Μ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Μ",
+        "volume": "19",
+        "page_start": "119",
+        "line_start": "11",
+        "page_end": "124",
+        "line_end": "5",
+        "title": "Μ",
+        "capitulum": "Μ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Ν",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Ν",
+        "volume": "19",
+        "page_start": "124",
+        "line_start": "6",
+        "line_end": "14",
+        "title": "Ν",
+        "capitulum": "Ν"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Ξ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Ξ",
+        "volume": "19",
+        "page_start": "125",
+        "line_start": "1",
+        "line_end": "3",
+        "title": "Ξ",
+        "capitulum": "Ξ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Ο",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Ο",
+        "volume": "19",
+        "page_start": "125",
+        "line_start": "4",
+        "page_end": "127",
+        "line_end": "10",
+        "title": "Ο",
+        "capitulum": "Ο"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Π",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Π",
+        "volume": "19",
+        "page_start": "127",
+        "line_start": "11",
+        "page_end": "134",
+        "line_end": "2",
+        "title": "Π",
+        "capitulum": "Π"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Ρ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Ρ",
+        "volume": "19",
+        "page_start": "134",
+        "line_start": "3",
+        "page_end": "136",
+        "line_end": "4",
+        "title": "Ρ",
+        "capitulum": "Ρ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Σ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Σ",
+        "volume": "19",
+        "page_start": "136",
+        "line_start": "5",
+        "page_end": "145",
+        "line_end": "5",
+        "title": "Σ",
+        "capitulum": "Σ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Τ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Τ",
+        "volume": "19",
+        "page_start": "145",
+        "line_start": "6",
+        "page_end": "147",
+        "line_end": "15",
+        "title": "Τ",
+        "capitulum": "Τ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Υ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Υ",
+        "volume": "19",
+        "page_start": "148",
+        "line_start": "1",
+        "page_end": "150",
+        "line_end": "8",
+        "title": "Υ",
+        "capitulum": "Υ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Φ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Φ",
+        "volume": "19",
+        "page_start": "150",
+        "line_start": "9",
+        "page_end": "154",
+        "line_end": "4",
+        "title": "Φ",
+        "capitulum": "Φ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Χ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Χ",
+        "volume": "19",
+        "page_start": "154",
+        "line_start": "5",
+        "page_end": "155",
+        "line_end": "18",
+        "title": "Χ",
+        "capitulum": "Χ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Ψ",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Ψ",
+        "volume": "19",
+        "page_start": "156",
+        "line_start": "1",
+        "line_end": "8",
+        "title": "Ψ",
+        "capitulum": "Ψ"
+    },
+    {
+        "file": "tlg0057.tlg106.verbatim-grc1_Ω",
+      "cts": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1:Ω",
+        "volume": "19",
+        "page_start": "156",
+        "line_start": "9",
+        "page_end": "157",
+        "line_end": "8",
+        "title": "Ω",
+        "capitulum": "Ω"
+    }
+]

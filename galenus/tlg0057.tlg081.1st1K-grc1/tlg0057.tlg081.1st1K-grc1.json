@@ -1,0 +1,202 @@
+[
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1",
+        "title": "Institutio logica",
+        "authors": "Galenus",
+        "editors": "Kalbfleisch, Karl",
+        "date": "1896",
+        "page_start": "3",
+        "page_end": "49"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:1",
+        "page_start": "3",
+        "line_start": "1",
+        "page_end": "4",
+        "line_end": "22",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:2",
+        "page_start": "5",
+        "line_start": "1",
+        "page_end": "7",
+        "line_end": "11",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:3",
+        "page_start": "7",
+        "line_start": "12",
+        "page_end": "9",
+        "line_end": "16",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:4",
+        "page_start": "9",
+        "line_start": "17",
+        "page_end": "11",
+        "line_end": "21",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:5",
+        "page_start": "11",
+        "line_start": "22",
+        "page_end": "13",
+        "line_end": "17",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:6",
+        "page_start": "13",
+        "line_start": "18",
+        "page_end": "16",
+        "line_end": "18",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:7",
+        "page_start": "16",
+        "line_start": "19",
+        "page_end": "19",
+        "line_end": "18",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:8",
+        "page_start": "19",
+        "line_start": "19",
+        "page_end": "20",
+        "line_end": "17",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:9",
+        "page_start": "20",
+        "line_start": "18",
+        "page_end": "22",
+        "line_end": "12",
+        "title": "Capitulum 9",
+        "capitulum": "9"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_10",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:10",
+        "page_start": "22",
+        "line_start": "13",
+        "page_end": "24",
+        "line_end": "9",
+        "title": "Capitulum 10",
+        "capitulum": "10"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_11",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:11",
+        "page_start": "24",
+        "line_start": "10",
+        "page_end": "26",
+        "line_end": "12",
+        "title": "Capitulum 11",
+        "capitulum": "11"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_12",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:12",
+        "page_start": "26",
+        "line_start": "13",
+        "page_end": "29",
+        "line_end": "11",
+        "title": "Capitulum 12",
+        "capitulum": "12"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_13",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:13",
+        "page_start": "29",
+        "line_start": "12",
+        "page_end": "32",
+        "line_end": "5",
+        "title": "Capitulum 13",
+        "capitulum": "13"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_14",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:14",
+        "page_start": "32",
+        "line_start": "6",
+        "page_end": "35",
+        "line_end": "4",
+        "title": "Capitulum 14",
+        "capitulum": "14"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_15",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:15",
+        "page_start": "35",
+        "line_start": "5",
+        "page_end": "38",
+        "line_end": "11",
+        "title": "Capitulum 15",
+        "capitulum": "15"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_16",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:16",
+        "page_start": "38",
+        "line_start": "12",
+        "page_end": "42",
+        "line_end": "6",
+        "title": "Capitulum 16",
+        "capitulum": "16"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_17",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:17",
+        "page_start": "42",
+        "line_start": "7",
+        "page_end": "45",
+        "line_end": "5",
+        "title": "Capitulum 17",
+        "capitulum": "17"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_18",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:18",
+        "page_start": "45",
+        "line_start": "6",
+        "page_end": "47",
+        "line_end": "17",
+        "title": "Capitulum 18",
+        "capitulum": "18"
+    },
+    {
+        "file": "tlg0057.tlg081.1st1K-grc1_19",
+      "cts": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1:19",
+        "page_start": "47",
+        "line_start": "18",
+        "page_end": "49",
+        "line_end": "9",
+        "title": "Capitulum 19",
+        "capitulum": "19"
+    }
+]

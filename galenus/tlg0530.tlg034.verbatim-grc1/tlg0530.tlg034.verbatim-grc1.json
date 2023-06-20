@@ -1,0 +1,21 @@
+[
+    {
+        "file": "tlg0530.tlg034.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1",
+        "title": "De urinis compendium",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1639",
+        "volume": "19-8"
+    },
+    {
+        "file": "tlg0530.tlg034.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "602",
+        "line_start": "1",
+        "page_end": "608",
+        "line_end": "9",
+        "title": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΟΥΡΩΝ ΕΝ ΣΥΝΤΟΛΙΩΙ."
+    }
+]

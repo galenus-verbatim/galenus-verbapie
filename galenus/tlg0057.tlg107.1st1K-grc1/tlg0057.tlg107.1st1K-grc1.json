@@ -1,0 +1,23 @@
+[
+    {
+        "file": "tlg0057.tlg107.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1",
+        "title": "De experientia medica",
+        "authors": "Galenus",
+        "editors": "Schöne, Hermann",
+        "date": "1901",
+        "volume": "1901",
+        "page_start": "1258",
+        "page_end": "1263"
+    },
+    {
+        "file": "tlg0057.tlg107.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1",
+        "volume": "1901",
+        "page_start": "1258",
+        "line_start": "1",
+        "page_end": "1263",
+        "line_end": "12",
+        "title": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1:1"
+    }
+]

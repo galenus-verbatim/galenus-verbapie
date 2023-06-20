@@ -1,0 +1,21 @@
+[
+    {
+        "file": "tlg0530.tlg009.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg009.verbatim-grc1",
+        "title": "De humoribus",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1638",
+        "volume": "19-3"
+    },
+    {
+        "file": "tlg0530.tlg009.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0530.tlg009.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "485",
+        "line_start": "1",
+        "page_end": "496",
+        "line_end": "6",
+        "title": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΧΥΜΩΝ."
+    }
+]

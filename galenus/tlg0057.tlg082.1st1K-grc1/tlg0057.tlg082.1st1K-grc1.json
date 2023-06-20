@@ -1,0 +1,55 @@
+[
+    {
+        "file": "tlg0057.tlg082.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg082.1st1K-grc1",
+        "title": "De sophismatis seu captionibus penes dictionem",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1827-1649",
+        "volume": "14-2"
+    },
+    {
+        "file": "tlg0057.tlg082.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg082.1st1K-grc1:1",
+        "volume": "14",
+        "page_start": "582",
+        "line_start": "1",
+        "page_end": "585",
+        "line_end": "13",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg082.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg082.1st1K-grc1:2",
+        "volume": "14",
+        "page_start": "585",
+        "line_start": "14",
+        "page_end": "589",
+        "line_end": "13",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg082.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg082.1st1K-grc1:3",
+        "volume": "14",
+        "page_start": "589",
+        "line_start": "14",
+        "page_end": "594",
+        "line_end": "17",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg082.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg082.1st1K-grc1:4",
+        "volume": "14",
+        "page_start": "595",
+        "line_start": "1",
+        "page_end": "598",
+        "line_end": "13",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    }
+]

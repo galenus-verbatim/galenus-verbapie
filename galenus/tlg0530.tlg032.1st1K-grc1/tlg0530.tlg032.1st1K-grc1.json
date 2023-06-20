@@ -1,0 +1,20 @@
+[
+    {
+        "file": "tlg0530.tlg032.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg032.1st1K-grc1",
+        "title": "De theriaca ad Pamphilianum",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1827-1639",
+        "volume": "14-12"
+    },
+    {
+        "file": "tlg0530.tlg032.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0530.tlg032.1st1K-grc1:1",
+        "volume": "14",
+        "line_start": "1",
+        "page_end": "310",
+        "line_end": "8",
+        "title": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΘΗΡΙΑΚΗΣ ΠΡΟΣ ΠΑΜΦΙΛΙΑΝΟΝ"
+    }
+]

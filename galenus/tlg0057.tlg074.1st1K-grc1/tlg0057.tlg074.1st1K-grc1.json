@@ -1,0 +1,77 @@
+[
+    {
+        "file": "tlg0057.tlg074.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg074.1st1K-grc1",
+        "title": "Pro puero epileptico consilium",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1826-1679",
+        "volume": "11-10"
+    },
+    {
+        "file": "tlg0057.tlg074.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg074.1st1K-grc1:1",
+        "volume": "11",
+        "page_start": "357",
+        "line_start": "1",
+        "page_end": "360",
+        "line_end": "2",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg074.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg074.1st1K-grc1:2",
+        "volume": "11",
+        "page_start": "360",
+        "line_start": "3",
+        "page_end": "361",
+        "line_end": "4",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg074.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg074.1st1K-grc1:3",
+        "volume": "11",
+        "page_start": "361",
+        "line_start": "5",
+        "page_end": "365",
+        "line_end": "14",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg074.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg074.1st1K-grc1:4",
+        "volume": "11",
+        "page_start": "365",
+        "line_start": "15",
+        "page_end": "372",
+        "line_end": "5",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg074.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg074.1st1K-grc1:5",
+        "volume": "11",
+        "page_start": "372",
+        "line_start": "6",
+        "page_end": "374",
+        "line_end": "6",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg074.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg074.1st1K-grc1:6",
+        "volume": "11",
+        "page_start": "374",
+        "line_start": "7",
+        "page_end": "378",
+        "line_end": "9",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    }
+]

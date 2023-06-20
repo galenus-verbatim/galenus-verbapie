@@ -1,0 +1,267 @@
+[
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1",
+        "title": "De succedaneis",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1639",
+        "volume": "19-13"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "721",
+        "line_start": "1",
+        "page_end": "723",
+        "line_end": "7",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Α",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Α",
+        "volume": "19",
+        "page_start": "723",
+        "line_start": "8",
+        "page_end": "726",
+        "line_end": "3",
+        "title": "Α",
+        "capitulum": "Α"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Β",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Β",
+        "volume": "19",
+        "page_start": "726",
+        "line_start": "4",
+        "line_end": "12",
+        "title": "Β",
+        "capitulum": "Β"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Γ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Γ",
+        "volume": "19",
+        "page_start": "726",
+        "line_start": "13",
+        "page_end": "727",
+        "line_end": "13",
+        "title": "Γ",
+        "capitulum": "Γ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Ζ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Ζ",
+        "volume": "19",
+        "page_start": "727",
+        "line_start": "14",
+        "page_end": "728",
+        "line_end": "5",
+        "title": "Ζ",
+        "capitulum": "Ζ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Δ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Δ",
+        "volume": "19",
+        "page_start": "728",
+        "line_start": "6",
+        "page_end": "729",
+        "line_end": "17",
+        "title": "Δ",
+        "capitulum": "Δ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Ε",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Ε",
+        "volume": "19",
+        "page_start": "730",
+        "line_start": "1",
+        "line_end": "1",
+        "title": "Ε",
+        "capitulum": "Ε"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Ζ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Ζ",
+        "volume": "19",
+        "page_start": "730",
+        "line_start": "2",
+        "line_end": "3",
+        "title": "Ζ",
+        "capitulum": "Ζ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Θ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Θ",
+        "volume": "19",
+        "page_start": "730",
+        "line_start": "4",
+        "line_end": "8",
+        "title": "Θ",
+        "capitulum": "Θ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Ι",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Ι",
+        "volume": "19",
+        "page_start": "730",
+        "line_start": "9",
+        "page_end": "731",
+        "line_end": "2",
+        "title": "Ι",
+        "capitulum": "Ι"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Κ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Κ",
+        "volume": "19",
+        "page_start": "731",
+        "line_start": "3",
+        "page_end": "733",
+        "line_end": "18",
+        "title": "Κ",
+        "capitulum": "Κ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Λ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Λ",
+        "volume": "19",
+        "page_start": "734",
+        "line_start": "1",
+        "page_end": "735",
+        "line_end": "11",
+        "title": "Λ",
+        "capitulum": "Λ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Μ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Μ",
+        "volume": "19",
+        "page_start": "735",
+        "line_start": "12",
+        "page_end": "737",
+        "line_end": "4",
+        "title": "Μ",
+        "capitulum": "Μ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Ν",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Ν",
+        "volume": "19",
+        "page_start": "737",
+        "line_start": "5",
+        "line_end": "11",
+        "title": "Ν",
+        "capitulum": "Ν"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Ξ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Ξ",
+        "volume": "19",
+        "page_start": "737",
+        "line_start": "12",
+        "page_end": "738",
+        "line_end": "2",
+        "title": "Ξ",
+        "capitulum": "Ξ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Ο",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Ο",
+        "volume": "19",
+        "page_start": "738",
+        "line_start": "3",
+        "page_end": "739",
+        "line_end": "15",
+        "title": "Ο",
+        "capitulum": "Ο"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Π",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Π",
+        "volume": "19",
+        "page_start": "739",
+        "line_start": "16",
+        "page_end": "741",
+        "line_end": "3",
+        "title": "Π",
+        "capitulum": "Π"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Ρ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Ρ",
+        "volume": "19",
+        "page_start": "741",
+        "line_start": "4",
+        "page_end": "742",
+        "line_end": "2",
+        "title": "Ρ",
+        "capitulum": "Ρ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Σ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Σ",
+        "volume": "19",
+        "page_start": "742",
+        "line_start": "3",
+        "page_end": "745",
+        "line_end": "7",
+        "title": "Σ",
+        "capitulum": "Σ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Υ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Υ",
+        "volume": "19",
+        "page_start": "745",
+        "line_start": "8",
+        "page_end": "746",
+        "line_end": "2",
+        "title": "Υ",
+        "capitulum": "Υ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Φ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Φ",
+        "volume": "19",
+        "page_start": "746",
+        "line_start": "3",
+        "line_end": "6",
+        "title": "Φ",
+        "capitulum": "Φ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Χ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Χ",
+        "volume": "19",
+        "page_start": "746",
+        "line_start": "7",
+        "page_end": "747",
+        "line_end": "4",
+        "title": "Χ",
+        "capitulum": "Χ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Ψ",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Ψ",
+        "volume": "19",
+        "page_start": "747",
+        "line_start": "5",
+        "line_end": "6",
+        "title": "Ψ",
+        "capitulum": "Ψ"
+    },
+    {
+        "file": "tlg0530.tlg031.verbatim-grc1_Ω",
+      "cts": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1:Ω",
+        "volume": "19",
+        "page_start": "747",
+        "line_start": "7",
+        "line_end": "12",
+        "title": "Ω",
+        "capitulum": "Ω"
+    }
+]

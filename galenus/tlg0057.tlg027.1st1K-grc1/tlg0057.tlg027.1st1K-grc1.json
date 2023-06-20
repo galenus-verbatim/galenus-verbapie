@@ -1,0 +1,132 @@
+[
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1",
+        "title": "Quod animi mores corporis temperamenta sequantur",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1822-1639",
+        "volume": "4-5"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:1",
+        "volume": "4",
+        "page_start": "767",
+        "line_start": "1",
+        "page_end": "768",
+        "line_end": "5",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:2",
+        "volume": "4",
+        "page_start": "768",
+        "line_start": "6",
+        "page_end": "772",
+        "line_end": "14",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:3",
+        "volume": "4",
+        "page_start": "772",
+        "line_start": "15",
+        "page_end": "779",
+        "line_end": "18",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:4",
+        "volume": "4",
+        "page_start": "780",
+        "line_start": "1",
+        "page_end": "784",
+        "line_end": "18",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:5",
+        "volume": "4",
+        "page_start": "785",
+        "line_start": "1",
+        "page_end": "789",
+        "line_end": "2",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:6",
+        "volume": "4",
+        "page_start": "789",
+        "line_start": "3",
+        "page_end": "791",
+        "line_end": "4",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:7",
+        "volume": "4",
+        "page_start": "791",
+        "line_start": "5",
+        "page_end": "798",
+        "line_end": "5",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:8",
+        "volume": "4",
+        "page_start": "798",
+        "line_start": "6",
+        "page_end": "804",
+        "line_end": "14",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:9",
+        "volume": "4",
+        "page_start": "804",
+        "line_start": "15",
+        "page_end": "808",
+        "line_end": "12",
+        "title": "Capitulum 9",
+        "capitulum": "9"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_10",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:10",
+        "volume": "4",
+        "page_start": "808",
+        "line_start": "13",
+        "page_end": "814",
+        "line_end": "7",
+        "title": "Capitulum 10",
+        "capitulum": "10"
+    },
+    {
+        "file": "tlg0057.tlg027.1st1K-grc1_11",
+      "cts": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1:11",
+        "volume": "4",
+        "page_start": "814",
+        "line_start": "8",
+        "page_end": "822",
+        "line_end": "6",
+        "title": "Capitulum 11",
+        "capitulum": "11"
+    }
+]

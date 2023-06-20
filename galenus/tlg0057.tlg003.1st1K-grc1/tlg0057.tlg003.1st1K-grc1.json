@@ -1,0 +1,55 @@
+[
+    {
+        "file": "tlg0057.tlg003.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1",
+        "title": "Quod optimus medicus sit quoque philosophus",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1821-1638",
+        "volume": "1-2"
+    },
+    {
+        "file": "tlg0057.tlg003.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:1",
+        "volume": "1",
+        "page_start": "53",
+        "line_start": "1",
+        "page_end": "55",
+        "line_end": "9",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg003.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:2",
+        "volume": "1",
+        "page_start": "55",
+        "line_start": "10",
+        "page_end": "58",
+        "line_end": "4",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg003.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:3",
+        "volume": "1",
+        "page_start": "58",
+        "line_start": "5",
+        "page_end": "61",
+        "line_end": "15",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg003.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1:4",
+        "volume": "1",
+        "page_start": "61",
+        "line_start": "16",
+        "page_end": "63",
+        "line_end": "4",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    }
+]

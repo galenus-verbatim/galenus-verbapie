@@ -1,0 +1,55 @@
+[
+    {
+        "file": "tlg0057.tlg052.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg052.1st1K-grc1",
+        "title": "De comate secundum Hippocratem",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1824-1649",
+        "volume": "7"
+    },
+    {
+        "file": "tlg0057.tlg052.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg052.1st1K-grc1:1",
+        "volume": "7",
+        "page_start": "643",
+        "line_start": "1",
+        "page_end": "646",
+        "line_end": "15",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg052.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg052.1st1K-grc1:2",
+        "volume": "7",
+        "page_start": "646",
+        "line_start": "16",
+        "page_end": "656",
+        "line_end": "4",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg052.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg052.1st1K-grc1:3",
+        "volume": "7",
+        "page_start": "656",
+        "line_start": "5",
+        "page_end": "663",
+        "line_end": "6",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg052.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg052.1st1K-grc1:4",
+        "volume": "7",
+        "page_start": "663",
+        "line_start": "7",
+        "page_end": "665",
+        "line_end": "6",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    }
+]

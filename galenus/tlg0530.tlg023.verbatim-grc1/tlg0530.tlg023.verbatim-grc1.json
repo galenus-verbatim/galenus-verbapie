@@ -1,0 +1,55 @@
+[
+    {
+        "file": "tlg0530.tlg023.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1",
+        "title": "Praesagitio omnino vera expertaque",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1639",
+        "volume": "19-8"
+    },
+    {
+        "file": "tlg0530.tlg023.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "512",
+        "line_start": "1",
+        "page_end": "513",
+        "line_end": "14",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0530.tlg023.verbatim-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:2",
+        "volume": "19",
+        "page_start": "513",
+        "line_start": "15",
+        "page_end": "514",
+        "line_end": "14",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0530.tlg023.verbatim-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:3",
+        "volume": "19",
+        "page_start": "514",
+        "line_start": "15",
+        "page_end": "515",
+        "line_end": "17",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0530.tlg023.verbatim-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1:4",
+        "volume": "19",
+        "page_start": "515",
+        "line_start": "18",
+        "page_end": "518",
+        "line_end": "6",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    }
+]

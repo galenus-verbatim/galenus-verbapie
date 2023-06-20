@@ -1,0 +1,99 @@
+[
+    {
+        "file": "tlg0057.tlg023.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1",
+        "title": "An in arteriis sanguis contineatur",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1822-1639",
+        "volume": "4-3"
+    },
+    {
+        "file": "tlg0057.tlg023.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1:1",
+        "volume": "4",
+        "page_start": "703",
+        "line_start": "1",
+        "page_end": "706",
+        "line_end": "4",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg023.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1:2",
+        "volume": "4",
+        "page_start": "706",
+        "line_start": "5",
+        "page_end": "709",
+        "line_end": "12",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg023.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1:3",
+        "volume": "4",
+        "page_start": "709",
+        "line_start": "13",
+        "page_end": "712",
+        "line_end": "3",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg023.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1:4",
+        "volume": "4",
+        "page_start": "712",
+        "line_start": "4",
+        "page_end": "717",
+        "line_end": "6",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg023.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1:5",
+        "volume": "4",
+        "page_start": "717",
+        "line_start": "7",
+        "page_end": "721",
+        "line_end": "6",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg023.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1:6",
+        "volume": "4",
+        "page_start": "721",
+        "line_start": "7",
+        "page_end": "727",
+        "line_end": "8",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg023.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1:7",
+        "volume": "4",
+        "page_start": "727",
+        "line_start": "9",
+        "page_end": "731",
+        "line_end": "13",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg023.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1:8",
+        "volume": "4",
+        "page_start": "731",
+        "line_start": "14",
+        "page_end": "736",
+        "line_end": "4",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    }
+]

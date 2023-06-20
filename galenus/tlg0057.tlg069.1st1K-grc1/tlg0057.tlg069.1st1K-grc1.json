@@ -1,0 +1,110 @@
+[
+    {
+        "file": "tlg0057.tlg069.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1",
+        "title": "De venae sectione adversus Erasistrateos Romae degentes",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1826-1679",
+        "volume": "11-10"
+    },
+    {
+        "file": "tlg0057.tlg069.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1:1",
+        "volume": "11",
+        "page_start": "187",
+        "line_start": "1",
+        "page_end": "196",
+        "line_end": "12",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg069.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1:2",
+        "volume": "11",
+        "page_start": "196",
+        "line_start": "13",
+        "page_end": "199",
+        "line_end": "7",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg069.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1:3",
+        "volume": "11",
+        "page_start": "199",
+        "line_start": "8",
+        "page_end": "211",
+        "line_end": "18",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg069.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1:4",
+        "volume": "11",
+        "page_start": "212",
+        "line_start": "1",
+        "page_end": "220",
+        "line_end": "2",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg069.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1:5",
+        "volume": "11",
+        "page_start": "220",
+        "line_start": "3",
+        "page_end": "222",
+        "line_end": "16",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg069.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1:6",
+        "volume": "11",
+        "page_start": "222",
+        "line_start": "17",
+        "page_end": "227",
+        "line_end": "16",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg069.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1:7",
+        "volume": "11",
+        "page_start": "228",
+        "line_start": "1",
+        "page_end": "233",
+        "line_end": "12",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg069.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1:8",
+        "volume": "11",
+        "page_start": "233",
+        "line_start": "13",
+        "page_end": "240",
+        "line_end": "14",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0057.tlg069.1st1K-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1:9",
+        "volume": "11",
+        "page_start": "240",
+        "line_start": "15",
+        "page_end": "249",
+        "line_end": "3",
+        "title": "Capitulum 9",
+        "capitulum": "9"
+    }
+]

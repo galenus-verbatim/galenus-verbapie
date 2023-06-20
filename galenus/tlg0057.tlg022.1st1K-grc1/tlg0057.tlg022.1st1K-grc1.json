@@ -1,0 +1,77 @@
+[
+    {
+        "file": "tlg0057.tlg022.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg022.1st1K-grc1",
+        "title": "De foetuum formatione",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1822-1639",
+        "volume": "4-5"
+    },
+    {
+        "file": "tlg0057.tlg022.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg022.1st1K-grc1:1",
+        "volume": "4",
+        "page_start": "652",
+        "line_start": "1",
+        "page_end": "655",
+        "line_end": "5",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg022.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg022.1st1K-grc1:2",
+        "volume": "4",
+        "page_start": "655",
+        "line_start": "6",
+        "page_end": "660",
+        "line_end": "4",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg022.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg022.1st1K-grc1:3",
+        "volume": "4",
+        "page_start": "660",
+        "line_start": "5",
+        "page_end": "674",
+        "line_end": "5",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg022.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg022.1st1K-grc1:4",
+        "volume": "4",
+        "page_start": "674",
+        "line_start": "6",
+        "page_end": "678",
+        "line_end": "8",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg022.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg022.1st1K-grc1:5",
+        "volume": "4",
+        "page_start": "678",
+        "line_start": "9",
+        "page_end": "687",
+        "line_end": "4",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg022.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg022.1st1K-grc1:6",
+        "volume": "4",
+        "page_start": "687",
+        "line_start": "5",
+        "page_end": "702",
+        "line_end": "4",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    }
+]

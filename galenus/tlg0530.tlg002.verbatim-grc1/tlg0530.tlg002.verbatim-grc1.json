@@ -1,0 +1,66 @@
+[
+    {
+        "file": "tlg0530.tlg002.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg002.verbatim-grc1",
+        "title": "An animal sit quod est in utero",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1639",
+        "volume": "19-5"
+    },
+    {
+        "file": "tlg0530.tlg002.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0530.tlg002.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "158",
+        "line_start": "1",
+        "page_end": "162",
+        "line_end": "12",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0530.tlg002.verbatim-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0530.tlg002.verbatim-grc1:2",
+        "volume": "19",
+        "page_start": "162",
+        "line_start": "13",
+        "page_end": "165",
+        "line_end": "16",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0530.tlg002.verbatim-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0530.tlg002.verbatim-grc1:3",
+        "volume": "19",
+        "page_start": "165",
+        "line_start": "17",
+        "page_end": "167",
+        "line_end": "19",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0530.tlg002.verbatim-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0530.tlg002.verbatim-grc1:4",
+        "volume": "19",
+        "page_start": "168",
+        "line_start": "1",
+        "page_end": "174",
+        "line_end": "18",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0530.tlg002.verbatim-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0530.tlg002.verbatim-grc1:5",
+        "volume": "19",
+        "page_start": "175",
+        "line_start": "1",
+        "page_end": "181",
+        "line_end": "12",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    }
+]

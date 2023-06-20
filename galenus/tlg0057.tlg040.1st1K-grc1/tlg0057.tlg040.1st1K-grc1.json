@@ -1,0 +1,22 @@
+[
+    {
+        "file": "tlg0057.tlg040.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1",
+        "title": "De dignotione ex insomniis",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1823-1638",
+        "volume": "6"
+    },
+    {
+        "file": "tlg0057.tlg040.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1:1",
+        "volume": "6",
+        "page_start": "832",
+        "line_start": "1",
+        "page_end": "835",
+        "line_end": "14",
+        "title": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΤΗΣ ΕΞ ΕΝΥΠΝΙΩΝ ΔΙΑΓΝΩΣΕΩΣ.",
+        "liber": "1"
+    }
+]

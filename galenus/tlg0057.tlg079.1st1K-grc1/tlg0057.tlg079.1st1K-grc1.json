@@ -1,0 +1,208 @@
+[
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1",
+        "title": "De theriaca ad Pisonem",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1827-1649",
+        "volume": "14-13"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:1",
+        "volume": "14",
+        "page_start": "210",
+        "line_start": "1",
+        "page_end": "214",
+        "line_end": "9",
+        "title": "Capitulum 1. Πίσωνι τὸν λόγον ἀνατίθησιν, Ἀνδρόμαχον ἐπαινεῖ, καὶ τῆς γραφθησομένης πραγματείας τὸ αἴτιον ἐκδηλοῖ ὁ Γαληνός.",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:2",
+        "volume": "14",
+        "page_start": "214",
+        "line_start": "10",
+        "page_end": "219",
+        "line_end": "16",
+        "title": "Capitulum 2. Θηριακῆς ἔπαινος καὶ διάγνωσις, καὶ τῶν περὶ ταύτην ἀρχόντων Ῥωμαίων σπουδή.",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:3",
+        "volume": "14",
+        "page_start": "219",
+        "line_start": "17",
+        "page_end": "225",
+        "line_end": "7",
+        "title": "Capitulum 3. Τίνος ἕνεκα ἐκ πολλῶν σύγκειται ἡ ἀντίδοτος· ἔμφυτον δὲ πᾶσιν δύναμιν ὑπάρχειν, ἣν λόγῳ τε καὶ ﻿ αἰσθήσει ἰσχνεύομεν.",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:4",
+        "volume": "14",
+        "page_start": "225",
+        "line_start": "8",
+        "page_end": "229",
+        "line_end": "13",
+        "title": "Capitulum 4. Τὰ ἁπλᾶ τῶν φαρμάκων συνθέτους ὡς ἐπὶ τὸ πολὺ ἔχειν δυνάμεις καὶ διάφορα τοῦ σώματος μόρια βλάπτειν τε καὶ ὠφελεῖν, καὶ διαφόροις διάφορα προσήκειν.",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:5",
+        "volume": "14",
+        "page_start": "229",
+        "line_start": "14",
+        "page_end": "232",
+        "line_end": "18",
+        "title": "Capitulum 5. Τὶ ποτ᾿ ἐπήγαγε τοὺς ἰατροὺς πρὸς τὴν σύγκρασιν πολλῶν ἁπλῶν. καὶ τίς ὁ πρῶτος ἐπιβαλῶν τῇ θηριακῇ τὰς ἐχίδνας.",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_6 et 7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:6 et 7",
+        "volume": "14",
+        "page_start": "233",
+        "line_start": "1",
+        "line_end": "2",
+        "title": "6 et 7. Ἀνδρομάχου πρεσβυτέρου, Νέρωνος ἀρχιάτρου θηριακὴ δι᾿ ἐχιδνῶν ἡ καλουμένη Γαλήνη.",
+        "capitulum": "6 et 7"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:8",
+        "volume": "14",
+        "page_start": "233",
+        "line_start": "3",
+        "page_end": "237",
+        "line_end": "17",
+        "title": "Capitulum 8. Διὰ τὶ ὁ Ἀνδρόμαχος τὴν ἔχιδναν μᾶλλον ἢ ἄλλον τινὰ ὄφιν τῇ θηριακῇ ἐπέμιξε; καὶ περὶ Κλεοπάτρας θανάτου ἀκριβὴς ἱστορία.",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:9",
+        "volume": "14",
+        "page_start": "237",
+        "line_start": "18",
+        "page_end": "243",
+        "line_end": "19",
+        "title": "Capitulum 9. Τὶ δή ποτε τῇ θηριακῇ ὁλόκληρος ἡ ἔχιδνα οὐκ ἐπιτίθεται· πολλάς τε ἐκ τῶν ζώων ἡμᾶς λαμβάνειν τὰς θεραπείας.",
+        "capitulum": "9"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_10",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:10",
+        "volume": "14",
+        "page_start": "244",
+        "line_start": "1",
+        "page_end": "250",
+        "line_end": "3",
+        "title": "Capitulum 10. Πῶς τὰ βλαβερὰ ἐνίοτε ἔχουσιν ὠφελεῖν· μίαν τε ἐκ πολλῶν γίγνεσθαι ποιότητα ἐν τοῖς μικτοῖς φαρμάκοις.",
+        "capitulum": "10"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_11",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:11",
+        "volume": "14",
+        "page_start": "250",
+        "line_start": "4",
+        "page_end": "255",
+        "line_end": "9",
+        "title": "Capitulum 11. Ἀσκληπιάδου τε καὶ Ἐπικούρου ἀντίῤῥησις, τῶν τὴν ἀλλοίωσιν ἀποφασκόντων καὶ τὰ τῆς φύσεως ἔργα πρὸς τοὺς ἀτόμους τε καὶ ὄγκους ἀναφερόντων.",
+        "capitulum": "11"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_12",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:12",
+        "volume": "14",
+        "page_start": "255",
+        "line_start": "10",
+        "page_end": "262",
+        "line_end": "11",
+        "title": "Capitulum 12. Ἕκαστα τὰ τὴν θηριακὴν συντιθέμενα ἀκριβῶς ἐξεταστέον. καὶ τὴν Ἀνδρομάχου γραφὴν προκριτέον.",
+        "capitulum": "12"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_13",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:13",
+        "volume": "14",
+        "page_start": "262",
+        "line_start": "12",
+        "page_end": "267",
+        "line_end": "11",
+        "title": "Capitulum 13. Πῶς κατασκευαστέοι οἵ τε ἡδύχροοι, σκιλλητικοὶ καὶ θηριακοὶ ἀρτίσκοι.",
+        "capitulum": "13"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_14",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:14",
+        "volume": "14",
+        "page_start": "267",
+        "line_start": "12",
+        "page_end": "270",
+        "line_end": "15",
+        "title": "Capitulum 14. Θηριακῆς σκευασία, ἀποθήκη, ἡλικία, κρίσις, δόσις.",
+        "capitulum": "14"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_15",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:15",
+        "volume": "14",
+        "page_start": "270",
+        "line_start": "16",
+        "page_end": "277",
+        "line_end": "15",
+        "title": "Capitulum 15. Πρὸς πόσας νόσους βοηθεῖν πέφυκεν ἡ θηριακή.",
+        "capitulum": "15"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_16",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:16",
+        "volume": "14",
+        "page_start": "277",
+        "line_start": "16",
+        "page_end": "284",
+        "line_end": "14",
+        "title": "Capitulum 16. Μεθοδικῶν ἔλεγχος ἄχρηστον εἶναι νομιζόντων τὸ εἰδέναι τὰς τῶν νόσων αἰτίας· καὶ πάλιν τὰ χρήσιμα τῆς θηριακῆς διεξίησι.",
+        "capitulum": "16"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_17",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:17",
+        "volume": "14",
+        "page_start": "284",
+        "line_start": "15",
+        "page_end": "287",
+        "line_end": "12",
+        "title": "Capitulum 17. Πόσον καὶ πότε καὶ ὑφ᾿ ὧν ληπτέον τὴν θηριακήν.",
+        "capitulum": "17"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_18",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:18",
+        "volume": "14",
+        "page_start": "287",
+        "line_start": "13",
+        "page_end": "290",
+        "line_end": "14",
+        "title": "Capitulum 18. Περὶ ἁλῶν θηριακῶν.",
+        "capitulum": "18"
+    },
+    {
+        "file": "tlg0057.tlg079.1st1K-grc1_19",
+      "cts": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1:19",
+        "volume": "14",
+        "page_start": "290",
+        "line_start": "15",
+        "page_end": "294",
+        "line_end": "16",
+        "title": "Capitulum 19. Περὶ ἁλῶν θηριακῶν κατασκευῆς.",
+        "capitulum": "19"
+    }
+]

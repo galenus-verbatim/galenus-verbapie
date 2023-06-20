@@ -1,0 +1,21 @@
+[
+    {
+        "file": "tlg0057.tlg115.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1",
+        "title": "*Quomodo morbum simulantes sint deprehendendi*",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1649",
+        "volume": "19-8"
+    },
+    {
+        "file": "tlg0057.tlg115.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "1",
+        "line_start": "1",
+        "page_end": "7",
+        "line_end": "13",
+        "title": "ΓΑΛΗΝΟΥ ΠΩΣ ΔΕΙ ΕΞΕΛΕΓΧΕΙΝ ΤΟΥΣ ΠΡΟΣΠΟΙΟΥΜΕΝΟΥΣ ΝΟΣΕΙΝ."
+    }
+]

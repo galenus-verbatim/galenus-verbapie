@@ -1,0 +1,77 @@
+[
+    {
+        "file": "tlg0057.tlg015.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg015.1st1K-grc1",
+        "title": "De instrumento odoratus",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1821-1639",
+        "volume": "2-5"
+    },
+    {
+        "file": "tlg0057.tlg015.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg015.1st1K-grc1:1",
+        "volume": "2",
+        "page_start": "857",
+        "line_start": "1",
+        "page_end": "858",
+        "line_end": "16",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg015.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg015.1st1K-grc1:2",
+        "volume": "2",
+        "page_start": "858",
+        "line_start": "17",
+        "page_end": "862",
+        "line_end": "16",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg015.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg015.1st1K-grc1:3",
+        "volume": "2",
+        "page_start": "862",
+        "line_start": "17",
+        "page_end": "867",
+        "line_end": "5",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg015.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg015.1st1K-grc1:4",
+        "volume": "2",
+        "page_start": "867",
+        "line_start": "6",
+        "page_end": "870",
+        "line_end": "9",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg015.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg015.1st1K-grc1:5",
+        "volume": "2",
+        "page_start": "870",
+        "line_start": "10",
+        "page_end": "882",
+        "line_end": "12",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg015.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg015.1st1K-grc1:6",
+        "volume": "2",
+        "page_start": "882",
+        "line_start": "13",
+        "page_end": "886",
+        "line_end": "3",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    }
+]

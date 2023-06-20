@@ -1,0 +1,66 @@
+[
+    {
+        "file": "tlg0057.tlg002.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg002.1st1K-grc1",
+        "title": "De optima doctrina",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1821-1638",
+        "volume": "1-2"
+    },
+    {
+        "file": "tlg0057.tlg002.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg002.1st1K-grc1:1",
+        "volume": "1",
+        "page_start": "40",
+        "line_start": "1",
+        "page_end": "42",
+        "line_end": "6",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg002.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg002.1st1K-grc1:2",
+        "volume": "1",
+        "page_start": "42",
+        "line_start": "7",
+        "page_end": "45",
+        "line_end": "14",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg002.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg002.1st1K-grc1:3",
+        "volume": "1",
+        "page_start": "45",
+        "line_start": "15",
+        "page_end": "48",
+        "line_end": "7",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg002.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg002.1st1K-grc1:4",
+        "volume": "1",
+        "page_start": "48",
+        "line_start": "8",
+        "page_end": "51",
+        "line_end": "3",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg002.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg002.1st1K-grc1:5",
+        "volume": "1",
+        "page_start": "51",
+        "line_start": "4",
+        "page_end": "52",
+        "line_end": "17",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    }
+]

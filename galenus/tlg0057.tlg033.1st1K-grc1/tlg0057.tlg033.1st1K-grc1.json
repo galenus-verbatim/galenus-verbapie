@@ -1,0 +1,292 @@
+[
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1",
+        "title": "Thrasybulus sive utrum medicinae sit an gymnasticae hygieine",
+        "authors": "Galenus",
+        "editors": "Helmreich, Georg",
+        "date": "1893"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:1",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:2",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:3",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:4",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:5",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:6",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:7",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:8",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:9",
+        "title": "Capitulum 9",
+        "capitulum": "9"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_10",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:10",
+        "title": "Capitulum 10",
+        "capitulum": "10"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_11",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:11",
+        "title": "Capitulum 11",
+        "capitulum": "11"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_12",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:12",
+        "title": "Capitulum 12",
+        "capitulum": "12"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_13",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:13",
+        "title": "Capitulum 13",
+        "capitulum": "13"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_14",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:14",
+        "title": "Capitulum 14",
+        "capitulum": "14"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_15",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:15",
+        "title": "Capitulum 15",
+        "capitulum": "15"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_16",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:16",
+        "title": "Capitulum 16",
+        "capitulum": "16"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_17",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:17",
+        "title": "Capitulum 17",
+        "capitulum": "17"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_18",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:18",
+        "title": "Capitulum 18",
+        "capitulum": "18"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_19",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:19",
+        "title": "Capitulum 19",
+        "capitulum": "19"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_20",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:20",
+        "title": "Capitulum 20",
+        "capitulum": "20"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_21",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:21",
+        "title": "Capitulum 21",
+        "capitulum": "21"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_22",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:22",
+        "title": "Capitulum 22",
+        "capitulum": "22"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_23",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:23",
+        "title": "Capitulum 23",
+        "capitulum": "23"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_24",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:24",
+        "title": "Capitulum 24",
+        "capitulum": "24"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_25",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:25",
+        "title": "Capitulum 25",
+        "capitulum": "25"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_26",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:26",
+        "title": "Capitulum 26",
+        "capitulum": "26"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_27",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:27",
+        "title": "Capitulum 27",
+        "capitulum": "27"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_28",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:28",
+        "title": "Capitulum 28",
+        "capitulum": "28"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_29",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:29",
+        "title": "Capitulum 29",
+        "capitulum": "29"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_30",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:30",
+        "title": "Capitulum 30",
+        "capitulum": "30"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_31",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:31",
+        "title": "Capitulum 31",
+        "capitulum": "31"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_32",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:32",
+        "title": "Capitulum 32",
+        "capitulum": "32"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_33",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:33",
+        "title": "Capitulum 33",
+        "capitulum": "33"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_34",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:34",
+        "title": "Capitulum 34",
+        "capitulum": "34"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_35",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:35",
+        "title": "Capitulum 35",
+        "capitulum": "35"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_36",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:36",
+        "title": "Capitulum 36",
+        "capitulum": "36"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_37",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:37",
+        "title": "Capitulum 37",
+        "capitulum": "37"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_38",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:38",
+        "title": "Capitulum 38",
+        "capitulum": "38"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_39",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:39",
+        "title": "Capitulum 39",
+        "capitulum": "39"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_40",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:40",
+        "title": "Capitulum 40",
+        "capitulum": "40"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_41",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:41",
+        "title": "Capitulum 41",
+        "capitulum": "41"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_42",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:42",
+        "title": "Capitulum 42",
+        "capitulum": "42"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_43",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:43",
+        "title": "Capitulum 43",
+        "capitulum": "43"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_44",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:44",
+        "title": "Capitulum 44",
+        "capitulum": "44"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_45",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:45",
+        "title": "Capitulum 45",
+        "capitulum": "45"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_46",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:46",
+        "title": "Capitulum 46",
+        "capitulum": "46"
+    },
+    {
+        "file": "tlg0057.tlg033.1st1K-grc1_47",
+      "cts": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1:47",
+        "title": "Capitulum 47",
+        "capitulum": "47"
+    }
+]

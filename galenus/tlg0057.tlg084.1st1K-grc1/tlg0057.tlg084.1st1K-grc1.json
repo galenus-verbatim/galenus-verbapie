@@ -1,0 +1,20 @@
+[
+    {
+        "file": "tlg0057.tlg084.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg084.1st1K-grc1",
+        "title": "De substantia facultatum naturalium fragmentum",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1822-1639",
+        "volume": "4-5"
+    },
+    {
+        "file": "tlg0057.tlg084.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg084.1st1K-grc1:1",
+        "volume": "4",
+        "line_start": "1",
+        "page_end": "766",
+        "line_end": "11",
+        "title": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΟΥΣΙΑΣ ΤΩΝ ΦΥΣΙΚΩΝ ΔΥΝΑΜΕΩΝ."
+    }
+]

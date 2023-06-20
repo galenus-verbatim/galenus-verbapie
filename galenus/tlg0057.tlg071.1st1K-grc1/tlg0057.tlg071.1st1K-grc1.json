@@ -1,0 +1,55 @@
+[
+    {
+        "file": "tlg0057.tlg071.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg071.1st1K-grc1",
+        "title": "De hirudinibus, revulsione, cucurbitula, incisione et scarificatione",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1826-1649",
+        "volume": "11"
+    },
+    {
+        "file": "tlg0057.tlg071.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg071.1st1K-grc1:1",
+        "volume": "11",
+        "page_start": "317",
+        "line_start": "1",
+        "page_end": "319",
+        "line_end": "4",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg071.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg071.1st1K-grc1:2",
+        "volume": "11",
+        "page_start": "319",
+        "line_start": "5",
+        "page_end": "320",
+        "line_end": "7",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg071.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg071.1st1K-grc1:3",
+        "volume": "11",
+        "page_start": "320",
+        "line_start": "8",
+        "page_end": "321",
+        "line_end": "6",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg071.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg071.1st1K-grc1:4",
+        "volume": "11",
+        "page_start": "321",
+        "line_start": "7",
+        "page_end": "322",
+        "line_end": "9",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    }
+]

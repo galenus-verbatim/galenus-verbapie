@@ -1,0 +1,176 @@
+[
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1",
+        "title": "Prognostica de decubitu ex mathematica scientia",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1639",
+        "volume": "19-8"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "529",
+        "line_start": "1",
+        "page_end": "531",
+        "line_end": "7",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:2",
+        "volume": "19",
+        "page_start": "531",
+        "line_start": "8",
+        "page_end": "533",
+        "line_end": "11",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:3",
+        "volume": "19",
+        "page_start": "533",
+        "line_start": "12",
+        "page_end": "536",
+        "line_end": "11",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:4",
+        "volume": "19",
+        "page_start": "536",
+        "line_start": "12",
+        "page_end": "541",
+        "line_end": "2",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:5",
+        "volume": "19",
+        "page_start": "541",
+        "line_start": "3",
+        "page_end": "544",
+        "line_end": "17",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:6",
+        "volume": "19",
+        "page_start": "545",
+        "line_start": "1",
+        "page_end": "548",
+        "line_end": "14",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:7",
+        "volume": "19",
+        "page_start": "548",
+        "line_start": "15",
+        "page_end": "552",
+        "line_end": "3",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:8",
+        "volume": "19",
+        "page_start": "552",
+        "line_start": "4",
+        "page_end": "554",
+        "line_end": "16",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:9",
+        "volume": "19",
+        "page_start": "555",
+        "line_start": "1",
+        "page_end": "557",
+        "line_end": "17",
+        "title": "Capitulum 9",
+        "capitulum": "9"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_10",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:10",
+        "volume": "19",
+        "page_start": "558",
+        "line_start": "1",
+        "page_end": "560",
+        "line_end": "13",
+        "title": "Capitulum 10",
+        "capitulum": "10"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_11",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:11",
+        "volume": "19",
+        "page_start": "560",
+        "line_start": "14",
+        "page_end": "563",
+        "line_end": "5",
+        "title": "Capitulum 11",
+        "capitulum": "11"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_12",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:12",
+        "volume": "19",
+        "page_start": "563",
+        "line_start": "6",
+        "page_end": "565",
+        "line_end": "13",
+        "title": "Capitulum 12",
+        "capitulum": "12"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_13",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:13",
+        "volume": "19",
+        "page_start": "565",
+        "line_start": "14",
+        "page_end": "567",
+        "line_end": "10",
+        "title": "Capitulum 13",
+        "capitulum": "13"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_14",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:14",
+        "volume": "19",
+        "page_start": "567",
+        "line_start": "11",
+        "page_end": "571",
+        "line_end": "12",
+        "title": "Capitulum 14",
+        "capitulum": "14"
+    },
+    {
+        "file": "tlg0530.tlg024.verbatim-grc1_15",
+      "cts": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1:15",
+        "volume": "19",
+        "page_start": "571",
+        "line_start": "13",
+        "page_end": "573",
+        "line_end": "7",
+        "title": "Capitulum 15",
+        "capitulum": "15"
+    }
+]

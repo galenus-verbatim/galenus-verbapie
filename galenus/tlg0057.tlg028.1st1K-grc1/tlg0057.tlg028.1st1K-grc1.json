@@ -1,0 +1,121 @@
+[
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1",
+        "title": "De propriorum animi cuiuslibet affectuum dignotione et curatione",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1823-1639",
+        "volume": "5-6"
+    },
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1:1",
+        "volume": "5",
+        "page_start": "1",
+        "line_start": "1",
+        "page_end": "3",
+        "line_end": "13",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1:2",
+        "volume": "5",
+        "page_start": "3",
+        "line_start": "14",
+        "page_end": "7",
+        "line_end": "9",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1:3",
+        "volume": "5",
+        "page_start": "7",
+        "line_start": "10",
+        "page_end": "14",
+        "line_end": "10",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1:4",
+        "volume": "5",
+        "page_start": "14",
+        "line_start": "11",
+        "page_end": "21",
+        "line_end": "5",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1:5",
+        "volume": "5",
+        "page_start": "21",
+        "line_start": "6",
+        "page_end": "26",
+        "line_end": "16",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1:6",
+        "volume": "5",
+        "page_start": "26",
+        "line_start": "17",
+        "page_end": "34",
+        "line_end": "18",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1:7",
+        "volume": "5",
+        "page_start": "35",
+        "line_start": "1",
+        "page_end": "40",
+        "line_end": "14",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1:8",
+        "volume": "5",
+        "page_start": "40",
+        "line_start": "15",
+        "page_end": "45",
+        "line_end": "6",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1:9",
+        "volume": "5",
+        "page_start": "45",
+        "line_start": "7",
+        "page_end": "52",
+        "line_end": "12",
+        "title": "Capitulum 9",
+        "capitulum": "9"
+    },
+    {
+        "file": "tlg0057.tlg028.1st1K-grc1_10",
+      "cts": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1:10",
+        "volume": "5",
+        "page_start": "52",
+        "line_start": "13",
+        "page_end": "57",
+        "line_end": "3",
+        "title": "Capitulum 10",
+        "capitulum": "10"
+    }
+]

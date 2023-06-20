@@ -1,0 +1,187 @@
+[
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1",
+        "title": "De ponderibus et mensuris",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1639",
+        "volume": "19-13"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "748",
+        "line_start": "2",
+        "page_end": "749",
+        "line_end": "3",
+        "title": "Capitulum 1. Τί ο σταθμος, τί τὸ μέτρον καὶ ἀμφοτέρων διαφοραί.",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:2",
+        "volume": "19",
+        "page_start": "749",
+        "line_start": "5",
+        "page_end": "751",
+        "line_end": "16",
+        "title": "Capitulum 2. Περὶ τῶν δηλούντων τοὺς σταθμοὺς καὶ τὰ μέτρα χαρακτήρων.",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:3",
+        "volume": "19",
+        "page_start": "751",
+        "line_start": "18",
+        "page_end": "752",
+        "line_end": "14",
+        "title": "Capitulum 3. Περὶ σταθμῶν.",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:4",
+        "volume": "19",
+        "page_start": "752",
+        "line_start": "16",
+        "page_end": "755",
+        "line_end": "4",
+        "title": "Capitulum 4. Περὶ μέτρων ὑγρῶν.",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:5",
+        "volume": "19",
+        "page_start": "755",
+        "line_start": "6",
+        "page_end": "756",
+        "line_end": "4",
+        "title": "Capitulum 5. Περὶ μέτρων ξηρῶν διδασκαλία σαφής.",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:6",
+        "volume": "19",
+        "page_start": "756",
+        "line_start": "6",
+        "page_end": "759",
+        "line_end": "12",
+        "title": "Capitulum 6. Περὶ σημείων καὶ χαρακτήρων τῶν ἐν ταῖς συσταθμίαις καὶ περὶ σταθμῶν καὶ μέτρων.",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:7",
+        "volume": "19",
+        "page_start": "759",
+        "line_start": "14",
+        "page_end": "762",
+        "line_end": "14",
+        "title": "Capitulum 7. Ἕκθεσις περὶ σταθμῶν καὶ μέτρων ἀκριβεστάτη.",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:8",
+        "volume": "19",
+        "page_start": "762",
+        "line_start": "16",
+        "page_end": "764",
+        "line_end": "25",
+        "title": "Capitulum 8. Ἕτι περὶ μέτρων καὶ σταθμῶν ἰατρικῶν συντομωτάτως ἔκθεσις ἁπλουστάτη.",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:9",
+        "volume": "19",
+        "page_start": "764",
+        "line_start": "27",
+        "page_end": "766",
+        "line_end": "26",
+        "title": "Capitulum 9. Περὶ μέτρων καὶ σταθμῶν.",
+        "capitulum": "9"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_10",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:10",
+        "volume": "19",
+        "page_start": "767",
+        "line_start": "2",
+        "page_end": "771",
+        "line_end": "5",
+        "title": "Capitulum 10. Ἐκ τῶν Κλεοπάτρας κοσμητικῶν περὶ σταθμῶν καὶ μέτρων.",
+        "capitulum": "10"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_11",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:11",
+        "volume": "19",
+        "page_start": "771",
+        "line_start": "7",
+        "page_end": "772",
+        "line_end": "14",
+        "title": "Capitulum 11. Ἄλλως περὶ τῶν αὐτῶν.",
+        "capitulum": "11"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_12",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:12",
+        "volume": "19",
+        "page_start": "772",
+        "line_start": "16",
+        "page_end": "773",
+        "line_end": "25",
+        "title": "Capitulum 12. Περὶ μέτρων καὶ σταθμῶν ἱππιατρικῶν.",
+        "capitulum": "12"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_13",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:13",
+        "volume": "19",
+        "page_start": "773",
+        "line_start": "27",
+        "page_end": "774",
+        "line_end": "12",
+        "title": "Capitulum 13. Περὶ μέτρων ὑγρῶν.",
+        "capitulum": "13"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_14",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:14",
+        "volume": "19",
+        "page_start": "775",
+        "line_start": "1",
+        "page_end": "778",
+        "line_end": "16",
+        "title": "Capitulum 14. Διοσκορίδου περὶ μέτρων καὶ σταθμῶν.",
+        "capitulum": "14"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_15",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:15",
+        "volume": "19",
+        "page_start": "778",
+        "line_start": "18",
+        "page_end": "780",
+        "line_end": "5",
+        "title": "Capitulum 15. Ἄλλως περὶ μέτρων καὶ σταθμῶν.",
+        "capitulum": "15"
+    },
+    {
+        "file": "tlg0530.tlg022.verbatim-grc1_16",
+      "cts": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1:16",
+        "volume": "19",
+        "page_start": "780",
+        "line_start": "7",
+        "page_end": "781",
+        "line_end": "4",
+        "title": "Capitulum 16. Περὶ σημείων τῶν μέτρων καὶ σταθμῶν.",
+        "capitulum": "16"
+    }
+]

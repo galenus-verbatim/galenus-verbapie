@@ -1,0 +1,77 @@
+[
+    {
+        "file": "tlg0057.tlg039.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg039.1st1K-grc1",
+        "title": "De ptisana",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1823-1639",
+        "volume": "6"
+    },
+    {
+        "file": "tlg0057.tlg039.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg039.1st1K-grc1:1",
+        "volume": "6",
+        "page_start": "816",
+        "line_start": "1",
+        "page_end": "817",
+        "line_end": "14",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg039.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg039.1st1K-grc1:2",
+        "volume": "6",
+        "page_start": "817",
+        "line_start": "15",
+        "page_end": "819",
+        "line_end": "13",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg039.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg039.1st1K-grc1:3",
+        "volume": "6",
+        "page_start": "819",
+        "line_start": "14",
+        "page_end": "821",
+        "line_end": "7",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg039.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg039.1st1K-grc1:4",
+        "volume": "6",
+        "page_start": "821",
+        "line_start": "8",
+        "page_end": "822",
+        "line_end": "4",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg039.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg039.1st1K-grc1:5",
+        "volume": "6",
+        "page_start": "822",
+        "line_start": "5",
+        "page_end": "826",
+        "line_end": "16",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg039.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg039.1st1K-grc1:6",
+        "volume": "6",
+        "page_start": "826",
+        "line_start": "17",
+        "page_end": "831",
+        "line_end": "5",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    }
+]

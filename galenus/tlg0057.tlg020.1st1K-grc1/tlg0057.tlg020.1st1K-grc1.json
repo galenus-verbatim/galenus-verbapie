@@ -1,0 +1,66 @@
+[
+    {
+        "file": "tlg0057.tlg020.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg020.1st1K-grc1",
+        "title": "De utilitate respirationis",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1822-1639",
+        "volume": "4-5"
+    },
+    {
+        "file": "tlg0057.tlg020.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg020.1st1K-grc1:1",
+        "volume": "4",
+        "page_start": "470",
+        "line_start": "1",
+        "page_end": "473",
+        "line_end": "5",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg020.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg020.1st1K-grc1:2",
+        "volume": "4",
+        "page_start": "473",
+        "line_start": "6",
+        "page_end": "484",
+        "line_end": "9",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg020.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg020.1st1K-grc1:3",
+        "volume": "4",
+        "page_start": "484",
+        "line_start": "10",
+        "page_end": "493",
+        "line_end": "9",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg020.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg020.1st1K-grc1:4",
+        "volume": "4",
+        "page_start": "493",
+        "line_start": "10",
+        "page_end": "501",
+        "line_end": "11",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg020.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg020.1st1K-grc1:5",
+        "volume": "4",
+        "page_start": "501",
+        "line_start": "12",
+        "page_end": "511",
+        "line_end": "14",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    }
+]

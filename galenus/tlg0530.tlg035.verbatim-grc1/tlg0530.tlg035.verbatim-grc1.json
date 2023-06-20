@@ -1,0 +1,98 @@
+[
+    {
+        "file": "tlg0530.tlg035.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1",
+        "title": "De urinis ex Hippocrate, Galeno aliisque quibusdam",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1639",
+        "volume": "19-8"
+    },
+    {
+        "file": "tlg0530.tlg035.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "609",
+        "line_start": "1",
+        "page_end": "615",
+        "line_end": "2",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0530.tlg035.verbatim-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1:2",
+        "volume": "19",
+        "page_start": "615",
+        "line_start": "3",
+        "page_end": "616",
+        "line_end": "5",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0530.tlg035.verbatim-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1:3",
+        "volume": "19",
+        "page_start": "616",
+        "line_start": "6",
+        "page_end": "618",
+        "line_end": "18",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0530.tlg035.verbatim-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1:4",
+        "volume": "19",
+        "page_start": "619",
+        "line_start": "1",
+        "line_end": "8",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0530.tlg035.verbatim-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1:5",
+        "volume": "19",
+        "page_start": "619",
+        "line_start": "9",
+        "page_end": "622",
+        "line_end": "8",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0530.tlg035.verbatim-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1:6",
+        "volume": "19",
+        "page_start": "622",
+        "line_start": "9",
+        "page_end": "623",
+        "line_end": "6",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0530.tlg035.verbatim-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1:7",
+        "volume": "19",
+        "page_start": "623",
+        "line_start": "7",
+        "page_end": "626",
+        "line_end": "17",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0530.tlg035.verbatim-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1:8",
+        "volume": "19",
+        "page_start": "626",
+        "line_start": "18",
+        "page_end": "628",
+        "line_end": "17",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    }
+]

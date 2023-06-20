@@ -1,0 +1,99 @@
+[
+    {
+        "file": "tlg0057.tlg051.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1",
+        "title": "De tremore, palpitatione, convulsione et rigore",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1824-1649",
+        "volume": "7"
+    },
+    {
+        "file": "tlg0057.tlg051.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1:1",
+        "volume": "7",
+        "page_start": "584",
+        "line_start": "1",
+        "page_end": "585",
+        "line_end": "7",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg051.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1:2",
+        "volume": "7",
+        "page_start": "585",
+        "line_start": "8",
+        "page_end": "586",
+        "line_end": "5",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg051.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1:3",
+        "volume": "7",
+        "page_start": "586",
+        "line_start": "6",
+        "page_end": "588",
+        "line_end": "16",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg051.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1:4",
+        "volume": "7",
+        "page_start": "588",
+        "line_start": "17",
+        "page_end": "593",
+        "line_end": "7",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg051.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1:5",
+        "volume": "7",
+        "page_start": "593",
+        "line_start": "8",
+        "page_end": "606",
+        "line_end": "14",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg051.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1:6",
+        "volume": "7",
+        "page_start": "606",
+        "line_start": "15",
+        "page_end": "626",
+        "line_end": "12",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg051.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1:7",
+        "volume": "7",
+        "page_start": "626",
+        "line_start": "13",
+        "page_end": "638",
+        "line_end": "12",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg051.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1:8",
+        "volume": "7",
+        "page_start": "638",
+        "line_start": "13",
+        "page_end": "642",
+        "line_end": "4",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    }
+]

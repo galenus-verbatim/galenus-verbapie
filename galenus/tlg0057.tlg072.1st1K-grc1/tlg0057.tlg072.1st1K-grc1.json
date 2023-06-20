@@ -1,0 +1,66 @@
+[
+    {
+        "file": "tlg0057.tlg072.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1",
+        "title": "De purgantium medicamentorum facultate",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1826-1679",
+        "volume": "11-10"
+    },
+    {
+        "file": "tlg0057.tlg072.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1:1",
+        "volume": "11",
+        "page_start": "323",
+        "line_start": "1",
+        "page_end": "327",
+        "line_end": "15",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg072.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1:2",
+        "volume": "11",
+        "page_start": "327",
+        "line_start": "16",
+        "page_end": "331",
+        "line_end": "11",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg072.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1:3",
+        "volume": "11",
+        "page_start": "331",
+        "line_start": "12",
+        "page_end": "335",
+        "line_end": "18",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg072.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1:4",
+        "volume": "11",
+        "page_start": "336",
+        "line_start": "1",
+        "page_end": "339",
+        "line_end": "6",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg072.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1:5",
+        "volume": "11",
+        "page_start": "339",
+        "line_start": "7",
+        "page_end": "342",
+        "line_end": "15",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    }
+]

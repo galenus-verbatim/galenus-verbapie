@@ -1,0 +1,31 @@
+[
+    {
+        "file": "tlg0530.tlg036.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg036.verbatim-grc1",
+        "title": "De venae sectione",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1639",
+        "volume": "19-8"
+    },
+    {
+        "file": "tlg0530.tlg036.verbatim-grc1_",
+      "cts": "urn:cts:greekLit:tlg0530.tlg036.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "525",
+        "line_start": "14",
+        "page_end": "527",
+        "line_end": "2",
+        "title": "ΠΑΥΛΟΥ."
+    },
+    {
+        "file": "tlg0530.tlg036.verbatim-grc1_",
+      "cts": "urn:cts:greekLit:tlg0530.tlg036.verbatim-grc1:2",
+        "volume": "19",
+        "page_start": "527",
+        "line_start": "3",
+        "page_end": "528",
+        "line_end": "3",
+        "title": "Ξ ΙΠΠΟΚΡΑΤΟΥΣ."
+    }
+]

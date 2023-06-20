@@ -1,0 +1,140 @@
+[
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1",
+        "title": "De pulsibus ad tirones",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1824-1639",
+        "volume": "8"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:1",
+        "volume": "8",
+        "page_start": "453",
+        "line_start": "1",
+        "page_end": "454",
+        "line_end": "17",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:2",
+        "volume": "8",
+        "page_start": "455",
+        "line_start": "1",
+        "line_end": "15",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:3",
+        "volume": "8",
+        "page_start": "455",
+        "line_start": "16",
+        "page_end": "456",
+        "line_end": "17",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:4",
+        "volume": "8",
+        "page_start": "456",
+        "line_start": "18",
+        "page_end": "457",
+        "line_end": "12",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:5",
+        "volume": "8",
+        "page_start": "457",
+        "line_start": "13",
+        "page_end": "458",
+        "line_end": "4",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:6",
+        "volume": "8",
+        "page_start": "458",
+        "line_start": "5",
+        "line_end": "17",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:7",
+        "volume": "8",
+        "page_start": "459",
+        "line_start": "1",
+        "line_end": "18",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:8",
+        "volume": "8",
+        "page_start": "460",
+        "line_start": "1",
+        "page_end": "462",
+        "line_end": "5",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:9",
+        "volume": "8",
+        "page_start": "462",
+        "line_start": "6",
+        "page_end": "467",
+        "line_end": "16",
+        "title": "Capitulum 9",
+        "capitulum": "9"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_10",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:10",
+        "volume": "8",
+        "page_start": "467",
+        "line_start": "17",
+        "page_end": "470",
+        "line_end": "6",
+        "title": "Capitulum 10",
+        "capitulum": "10"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_11",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:11",
+        "volume": "8",
+        "page_start": "470",
+        "line_start": "7",
+        "page_end": "473",
+        "line_end": "11",
+        "title": "Capitulum 11",
+        "capitulum": "11"
+    },
+    {
+        "file": "tlg0057.tlg058.1st1K-grc1_12",
+      "cts": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1:12",
+        "volume": "8",
+        "page_start": "473",
+        "line_start": "12",
+        "page_end": "492",
+        "line_end": "3",
+        "title": "Capitulum 12",
+        "capitulum": "12"
+    }
+]

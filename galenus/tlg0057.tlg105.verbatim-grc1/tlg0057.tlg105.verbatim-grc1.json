@@ -1,0 +1,21 @@
+[
+    {
+        "file": "tlg0057.tlg105.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1",
+        "title": "De ordine librorum suorum ad Eugenianum",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1638",
+        "volume": "19-1"
+    },
+    {
+        "file": "tlg0057.tlg105.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "49",
+        "line_start": "1",
+        "page_end": "61",
+        "line_end": "17",
+        "title": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΤΗΣ ΤΑΞΕΩΣ ΤΩΝ ΙΔΙΩΝ ΒΙΒΛΙΩΝ ΠΡΟΣ ΕΥΓΕΝΙΑΝΟΝ."
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "file": "tlg0057.tlg114.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg114.1st1K-grc1",
+        "title": "De causis respirationis",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1822-1649",
+        "volume": "4-5"
+    },
+    {
+        "file": "tlg0057.tlg114.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg114.1st1K-grc1:1",
+        "volume": "4",
+        "page_start": "465",
+        "line_start": "1",
+        "page_end": "469",
+        "line_end": "14",
+        "title": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΤΩΝ ΤΗΣ ΑΝΑΠΝΟΗΣ ΑΙΤΙΩΝ."
+    }
+]

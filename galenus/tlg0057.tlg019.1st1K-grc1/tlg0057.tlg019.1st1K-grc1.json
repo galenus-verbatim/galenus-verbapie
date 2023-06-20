@@ -1,0 +1,132 @@
+[
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1",
+        "title": "De Victu Attenuante",
+        "authors": "Galenus",
+        "editors": "Kalbfleisch, Karl",
+        "date": "1898",
+        "page_start": "3",
+        "page_end": "37"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:1",
+        "page_start": "3",
+        "line_start": "1",
+        "page_end": "5",
+        "line_end": "4",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:2",
+        "page_start": "5",
+        "line_start": "5",
+        "page_end": "6",
+        "line_end": "16",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:3",
+        "page_start": "6",
+        "line_start": "17",
+        "page_end": "9",
+        "line_end": "20",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:4",
+        "page_start": "9",
+        "line_start": "21",
+        "page_end": "11",
+        "line_end": "2",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:5",
+        "page_start": "11",
+        "line_start": "3",
+        "page_end": "12",
+        "line_end": "14",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:6",
+        "page_start": "12",
+        "line_start": "15",
+        "page_end": "16",
+        "line_end": "21",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:7",
+        "page_start": "16",
+        "line_start": "22",
+        "page_end": "18",
+        "line_end": "19",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:8",
+        "page_start": "18",
+        "line_start": "20",
+        "page_end": "24",
+        "line_end": "5",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:9",
+        "page_start": "24",
+        "line_start": "6",
+        "page_end": "25",
+        "line_end": "4",
+        "title": "Capitulum 9",
+        "capitulum": "9"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_10",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:10",
+        "page_start": "25",
+        "line_start": "5",
+        "page_end": "27",
+        "line_end": "8",
+        "title": "Capitulum 10",
+        "capitulum": "10"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_11",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:11",
+        "page_start": "27",
+        "line_start": "9",
+        "page_end": "28",
+        "line_end": "5",
+        "title": "Capitulum 11",
+        "capitulum": "11"
+    },
+    {
+        "file": "tlg0057.tlg019.1st1K-grc1_12",
+      "cts": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1:12",
+        "page_start": "28",
+        "line_start": "6",
+        "page_end": "37",
+        "line_end": "5",
+        "title": "Capitulum 12",
+        "capitulum": "12"
+    }
+]

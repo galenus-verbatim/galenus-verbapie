@@ -1,0 +1,292 @@
+[
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1",
+        "title": "De ossibus ad tirones",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1821-1639",
+        "volume": "2-4"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_Prooemium",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:Prooemium",
+        "volume": "2",
+        "page_start": "732",
+        "line_start": "1",
+        "page_end": "739",
+        "line_end": "14",
+        "title": "Prooemium",
+        "capitulum": "Prooemium"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:1",
+        "volume": "2",
+        "page_start": "739",
+        "line_start": "15",
+        "page_end": "746",
+        "line_end": "2",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:2",
+        "volume": "2",
+        "page_start": "746",
+        "line_start": "3",
+        "line_end": "8",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:3",
+        "volume": "2",
+        "page_start": "746",
+        "line_start": "9",
+        "page_end": "750",
+        "line_end": "2",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:4",
+        "volume": "2",
+        "page_start": "750",
+        "line_start": "3",
+        "page_end": "752",
+        "line_end": "13",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:5",
+        "volume": "2",
+        "page_start": "752",
+        "line_start": "14",
+        "page_end": "754",
+        "line_end": "14",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:6",
+        "volume": "2",
+        "page_start": "754",
+        "line_start": "15",
+        "page_end": "755",
+        "line_end": "6",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:7",
+        "volume": "2",
+        "page_start": "755",
+        "line_start": "7",
+        "page_end": "756",
+        "line_end": "2",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:8",
+        "volume": "2",
+        "page_start": "756",
+        "line_start": "3",
+        "page_end": "759",
+        "line_end": "7",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_9",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:9",
+        "volume": "2",
+        "page_start": "759",
+        "line_start": "8",
+        "page_end": "760",
+        "line_end": "13",
+        "title": "Capitulum 9",
+        "capitulum": "9"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_10",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:10",
+        "volume": "2",
+        "page_start": "760",
+        "line_start": "14",
+        "page_end": "761",
+        "line_end": "16",
+        "title": "Capitulum 10",
+        "capitulum": "10"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_11",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:11",
+        "volume": "2",
+        "page_start": "761",
+        "line_start": "17",
+        "page_end": "762",
+        "line_end": "14",
+        "title": "Capitulum 11",
+        "capitulum": "11"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_12",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:12",
+        "volume": "2",
+        "page_start": "762",
+        "line_start": "15",
+        "page_end": "763",
+        "line_end": "8",
+        "title": "Capitulum 12",
+        "capitulum": "12"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_13",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:13",
+        "volume": "2",
+        "page_start": "763",
+        "line_start": "9",
+        "page_end": "765",
+        "line_end": "15",
+        "title": "Capitulum 13",
+        "capitulum": "13"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_14",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:14",
+        "volume": "2",
+        "page_start": "765",
+        "line_start": "16",
+        "page_end": "767",
+        "line_end": "2",
+        "title": "Capitulum 14",
+        "capitulum": "14"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_15",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:15",
+        "volume": "2",
+        "page_start": "767",
+        "line_start": "3",
+        "line_end": "12",
+        "title": "Capitulum 15",
+        "capitulum": "15"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_16",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:16",
+        "volume": "2",
+        "page_start": "767",
+        "line_start": "13",
+        "page_end": "768",
+        "line_end": "15",
+        "title": "Capitulum 16",
+        "capitulum": "16"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_17",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:17",
+        "volume": "2",
+        "page_start": "768",
+        "line_start": "16",
+        "page_end": "770",
+        "line_end": "4",
+        "title": "Capitulum 17",
+        "capitulum": "17"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_18",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:18",
+        "volume": "2",
+        "page_start": "770",
+        "line_start": "5",
+        "page_end": "771",
+        "line_end": "6",
+        "title": "Capitulum 18",
+        "capitulum": "18"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_19",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:19",
+        "volume": "2",
+        "page_start": "771",
+        "line_start": "7",
+        "page_end": "772",
+        "line_end": "7",
+        "title": "Capitulum 19",
+        "capitulum": "19"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_20",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:20",
+        "volume": "2",
+        "page_start": "772",
+        "line_start": "8",
+        "line_end": "17",
+        "title": "Capitulum 20",
+        "capitulum": "20"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_21",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:21",
+        "volume": "2",
+        "page_start": "773",
+        "line_start": "1",
+        "line_end": "17",
+        "title": "Capitulum 21",
+        "capitulum": "21"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_22",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:22",
+        "volume": "2",
+        "page_start": "774",
+        "line_start": "1",
+        "page_end": "775",
+        "line_end": "6",
+        "title": "Capitulum 22",
+        "capitulum": "22"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_23",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:23",
+        "volume": "2",
+        "page_start": "775",
+        "line_start": "7",
+        "line_end": "13",
+        "title": "Capitulum 23",
+        "capitulum": "23"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_24",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:24",
+        "volume": "2",
+        "page_start": "775",
+        "line_start": "14",
+        "page_end": "777",
+        "line_end": "6",
+        "title": "Capitulum 24",
+        "capitulum": "24"
+    },
+    {
+        "file": "tlg0057.tlg012.1st1K-grc1_25",
+      "cts": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1:25",
+        "volume": "2",
+        "page_start": "777",
+        "line_start": "7",
+        "page_end": "778",
+        "line_end": "3",
+        "title": "Capitulum 25",
+        "capitulum": "25"
+    }
+]

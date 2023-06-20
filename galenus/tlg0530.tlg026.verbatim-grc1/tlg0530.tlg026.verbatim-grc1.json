@@ -1,0 +1,21 @@
+[
+    {
+        "file": "tlg0530.tlg026.verbatim-grc1",
+        "cts": "urn:cts:greekLit:tlg0530.tlg026.verbatim-grc1",
+        "title": "De pulsibus ad Antonium disciplinae studiosum et philosophum",
+        "authors": "Pseudo-Galen",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1830-1639",
+        "volume": "19-8"
+    },
+    {
+        "file": "tlg0530.tlg026.verbatim-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0530.tlg026.verbatim-grc1:1",
+        "volume": "19",
+        "page_start": "629",
+        "line_start": "1",
+        "page_end": "642",
+        "line_end": "9",
+        "title": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΣΦΥΓΜΩΝ ΠΡΟΣ ΑΝΤΩΝΙΟΝ ΦΙΛΟΜΑΘΗ ΚΑΙ ΦΙΛΟΣΟΦΟΝ."
+    }
+]

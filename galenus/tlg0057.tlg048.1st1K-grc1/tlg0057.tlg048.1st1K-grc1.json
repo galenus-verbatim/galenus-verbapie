@@ -1,0 +1,65 @@
+[
+    {
+        "file": "tlg0057.tlg048.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg048.1st1K-grc1",
+        "title": "De typis",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1824-1649",
+        "volume": "7"
+    },
+    {
+        "file": "tlg0057.tlg048.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg048.1st1K-grc1:1",
+        "volume": "7",
+        "page_start": "463",
+        "line_start": "1",
+        "line_end": "7",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg048.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg048.1st1K-grc1:2",
+        "volume": "7",
+        "page_start": "463",
+        "line_start": "8",
+        "page_end": "464",
+        "line_end": "4",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg048.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg048.1st1K-grc1:3",
+        "volume": "7",
+        "page_start": "464",
+        "line_start": "5",
+        "page_end": "465",
+        "line_end": "8",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg048.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg048.1st1K-grc1:4",
+        "volume": "7",
+        "page_start": "465",
+        "line_start": "9",
+        "page_end": "472",
+        "line_end": "2",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg048.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg048.1st1K-grc1:5",
+        "volume": "7",
+        "page_start": "472",
+        "line_start": "3",
+        "page_end": "474",
+        "line_end": "3",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    }
+]

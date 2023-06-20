@@ -1,0 +1,12 @@
+# python odds
+__pycache__/
+*.egg-info/
+*.py[cod]
+# LibreOdds
+.~*
+
+tests/*.7z
+tests/*/
+tests/test*
+tests/*.db
+tests/*.db-*

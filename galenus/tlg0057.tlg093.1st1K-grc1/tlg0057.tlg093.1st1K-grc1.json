@@ -1,0 +1,88 @@
+[
+    {
+        "file": "tlg0057.tlg093.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1",
+        "title": "Adversus Lycum",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1829-1689",
+        "volume": "18a-9"
+    },
+    {
+        "file": "tlg0057.tlg093.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1:1",
+        "volume": "18a",
+        "page_start": "196",
+        "line_start": "1",
+        "page_end": "198",
+        "line_end": "10",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg093.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1:2",
+        "volume": "18a",
+        "page_start": "198",
+        "line_start": "11",
+        "page_end": "206",
+        "line_end": "3",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg093.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1:3",
+        "volume": "18a",
+        "page_start": "206",
+        "line_start": "4",
+        "page_end": "216",
+        "line_end": "14",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg093.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1:4",
+        "volume": "18a",
+        "page_start": "217",
+        "line_start": "1",
+        "page_end": "223",
+        "line_end": "10",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg093.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1:5",
+        "volume": "18a",
+        "page_start": "223",
+        "line_start": "11",
+        "page_end": "225",
+        "line_end": "9",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg093.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1:6",
+        "volume": "18a",
+        "page_start": "225",
+        "line_start": "10",
+        "page_end": "234",
+        "line_end": "17",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg093.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1:7",
+        "volume": "18a",
+        "page_start": "235",
+        "line_start": "1",
+        "page_end": "245",
+        "line_end": "12",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    }
+]

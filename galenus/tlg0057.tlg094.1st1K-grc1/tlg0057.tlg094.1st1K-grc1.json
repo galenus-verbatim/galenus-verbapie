@@ -1,0 +1,99 @@
+[
+    {
+        "file": "tlg0057.tlg094.1st1K-grc1",
+        "cts": "urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1",
+        "title": "Adversus ea quae Juliano in Hippocratis Aphorismos enuntiata sunt",
+        "authors": "Galenus",
+        "editors": "Kühn, Karl Gottlob",
+        "date": "1829-1689",
+        "volume": "18a-9"
+    },
+    {
+        "file": "tlg0057.tlg094.1st1K-grc1_1",
+      "cts": "urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1:1",
+        "volume": "18a",
+        "page_start": "246",
+        "line_start": "1",
+        "page_end": "252",
+        "line_end": "13",
+        "title": "Capitulum 1",
+        "capitulum": "1"
+    },
+    {
+        "file": "tlg0057.tlg094.1st1K-grc1_2",
+      "cts": "urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1:2",
+        "volume": "18a",
+        "page_start": "252",
+        "line_start": "14",
+        "page_end": "254",
+        "line_end": "16",
+        "title": "Capitulum 2",
+        "capitulum": "2"
+    },
+    {
+        "file": "tlg0057.tlg094.1st1K-grc1_3",
+      "cts": "urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1:3",
+        "volume": "18a",
+        "page_start": "255",
+        "line_start": "1",
+        "page_end": "257",
+        "line_end": "15",
+        "title": "Capitulum 3",
+        "capitulum": "3"
+    },
+    {
+        "file": "tlg0057.tlg094.1st1K-grc1_4",
+      "cts": "urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1:4",
+        "volume": "18a",
+        "page_start": "257",
+        "line_start": "16",
+        "page_end": "264",
+        "line_end": "11",
+        "title": "Capitulum 4",
+        "capitulum": "4"
+    },
+    {
+        "file": "tlg0057.tlg094.1st1K-grc1_5",
+      "cts": "urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1:5",
+        "volume": "18a",
+        "page_start": "264",
+        "line_start": "12",
+        "page_end": "272",
+        "line_end": "5",
+        "title": "Capitulum 5",
+        "capitulum": "5"
+    },
+    {
+        "file": "tlg0057.tlg094.1st1K-grc1_6",
+      "cts": "urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1:6",
+        "volume": "18a",
+        "page_start": "272",
+        "line_start": "6",
+        "page_end": "281",
+        "line_end": "15",
+        "title": "Capitulum 6",
+        "capitulum": "6"
+    },
+    {
+        "file": "tlg0057.tlg094.1st1K-grc1_7",
+      "cts": "urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1:7",
+        "volume": "18a",
+        "page_start": "282",
+        "line_start": "1",
+        "page_end": "287",
+        "line_end": "11",
+        "title": "Capitulum 7",
+        "capitulum": "7"
+    },
+    {
+        "file": "tlg0057.tlg094.1st1K-grc1_8",
+      "cts": "urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1:8",
+        "volume": "18a",
+        "page_start": "287",
+        "line_start": "12",
+        "page_end": "299",
+        "line_end": "10",
+        "title": "Capitulum 8",
+        "capitulum": "8"
+    }
+]

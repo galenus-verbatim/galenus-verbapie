@@ -11,3 +11,4 @@ tests/test*
 tests/*.db
 tests/*.db-*
 *.db
+*.db-journal

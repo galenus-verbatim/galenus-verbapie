@@ -1,4 +1,8 @@
 Relative or absolute filepath
+
+# put first because it breaks system
+../galenus_cts/data/tlg0530/tlg029/tlg0530.tlg029.1st1K-grc1.xml
+
 ../galenus_cts/data/tlg0057/tlg001/tlg0057.tlg001.1st1K-grc1.xml
 ../galenus_cts/data/tlg0057/tlg001/tlg0057.tlg001.1st1K-grc2.xml
 ../galenus_cts/data/tlg0057/tlg002/tlg0057.tlg002.1st1K-grc1.xml
@@ -120,7 +124,7 @@ Relative or absolute filepath
 # ../galenus_cts/data/tlg0530/tlg023/tlg0530.tlg023.verbatim-grc1.xml
 # ../galenus_cts/data/tlg0530/tlg024/tlg0530.tlg024.verbatim-grc1.xml
 # ../galenus_cts/data/tlg0530/tlg026/tlg0530.tlg026.verbatim-grc1.xml
-../galenus_cts/data/tlg0530/tlg029/tlg0530.tlg029.1st1K-grc1.xml
+
 # ../galenus_cts/data/tlg0530/tlg031/tlg0530.tlg031.verbatim-grc1.xml
 ../galenus_cts/data/tlg0530/tlg032/tlg0530.tlg032.1st1K-grc1.xml
 # ../galenus_cts/data/tlg0530/tlg033/tlg0530.tlg033.verbatim-grc1.xml

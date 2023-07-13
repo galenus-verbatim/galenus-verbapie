@@ -5,10 +5,6 @@ __pycache__/
 # LibreOdds
 .~*
 
-tests/*.7z
-tests/*/
-tests/test*
-tests/*.db
-tests/*.db-*
+
 *.db
-*.db-journal
+*.db-*
